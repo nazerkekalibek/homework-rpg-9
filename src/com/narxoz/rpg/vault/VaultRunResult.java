@@ -1,10 +1,6 @@
 package com.narxoz.rpg.vault;
 
-/**
- * Summary of a Chronomancer's Vault run.
- */
-public class VaultRunResult {
-
+public class VaultRunResult{
     private final int artifactsAppraised;
     private final int mementosCreated;
     private final int restoredCount;
